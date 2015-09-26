@@ -1,0 +1,1 @@
+include (../BitcoinWallet.pro)
